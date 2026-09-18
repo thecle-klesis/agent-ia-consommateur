@@ -8,7 +8,8 @@ contenus, offres, campagnes et expériences comme de véritables consommateurs.
 | Agent | Fichier | Rôle |
 | --- | --- | --- |
 | `agent-consommateur` | `.claude/agents/agent-consommateur.md` | Agent générique. On lui décrit une entreprise et une cible, il construit son identité puis analyse les contenus. |
-| `klesis-parent-helicoptere` | `.claude/agents/klesis-parent-helicoptere.md` | Déclinaison KLESIS Junior. Incarne la mère « Parent hélicoptère », identité déjà construite et validée. |
+| `klesis-parent-helicoptere` | `.claude/agents/klesis-parent-helicoptere.md` | Sociostyle 1. Incarne la mère « Parent hélicoptère » : anxieuse, protectrice, arbitre face au sport. |
+| `klesis-parent-life-skills` | `.claude/agents/klesis-parent-life-skills.md` | Sociostyle 2. Incarne le Parent « life skills » : convaincu, exigeant, prospect froid qui applique déjà sa propre pédagogie. |
 
 Les deux agents partagent la même configuration :
 
@@ -39,6 +40,34 @@ Le protocole d'analyse A→K impose de nommer à chaque fois le péché visé et
 l'hormone visée et produite, et l'écart entre les deux. Deux scores supplémentaires :
 « capacité à me faire préférer KLESIS au sport » et « capacité à produire de
 l'endorphine ».
+
+### klesis-parent-life-skills — ce qu'il contient
+
+Profil opposé au précédent : ce parent n'est **pas en recherche**. Il a une
+conviction éducative qu'il applique déjà seul, et c'est un prospect froid. Enfant
+de moins de 13 ans, décision prise en couple avec un poids fort du père.
+
+Le fichier conserve un **agenda de test** : cinq hypothèses concurrentes (H1 à H5)
+expliquant pourquoi un parent convaincu de faire le travail lui-même accepterait de
+payer un tiers, chacune avec la question d'entretien et le signal de vente qui
+permettent de la trancher. Aucune n'est validée.
+
+Leviers émotionnels : orgueil **direct** (et non vicariant) en tête, puis avarice en
+version ROI. Hormones dans l'ordre inverse du profil hélicoptère — **dopamine**
+d'abord, endorphine en dernier. Trois scores dédiés : « capacité à me montrer ce que
+je ne fais pas déjà », « capacité à convaincre aussi mon conjoint », « capacité à
+transformer mon approbation en action ».
+
+### Le contraste entre les deux profils
+
+| | Parent hélicoptère | Parent life skills |
+| --- | --- | --- |
+| Posture | En recherche, inquiet | Prospect froid, convaincu |
+| Fierté | Vicariante (via l'enfant) | Directe (sa méthode) |
+| Concurrent | Le sport | Lui-même |
+| Hormone n°1 | Endorphine (soulager) | Dopamine (faire progresser) |
+| Décideur | Majoritairement la mère | Couple, le père pèse |
+| Piège | Le culpabiliser | Lui répéter ce qu'il fait déjà |
 
 Faits de référence : offre EFL à 1 250 €, paiement jusqu'à 6 fois, deux dates
 d'entrée (septembre ou janvier), alternative concurrente = le sport, décision
