@@ -22,8 +22,23 @@ Les deux agents partagent la même configuration :
 
 Fiche d'identité validée (mère 35-45 ans, CSP+, urbaine, 1-2 enfants de 6-12 ans),
 9 objections classées, réaction aux 6 piliers KLESIS, points de friction
-structurels, protocole d'analyse A→K avec un score supplémentaire « capacité à me
-faire préférer KLESIS au sport ».
+structurels, et deux grilles de leviers émotionnels :
+
+- **Sept péchés capitaux**, classés du plus au moins activable : orgueil (vicariant,
+  le plus puissant) · envie (à double tranchant) · colère · avarice (aversion à la
+  perte) · paresse (à reformuler en soulagement de charge mentale) · gourmandise ·
+  luxure.
+- **Quatre hormones**, par ordre de priorité : endorphine (soulagement de la
+  douleur — le levier différenciant) · ocytocine · sérotonine · dopamine (à doser).
+
+Un garde-fou est inscrit dans la fiche : sur un profil anxieux et culpabilisé, un
+contenu qui active frontalement la peur ou la culpabilité ne convertit pas, il fait
+fuir.
+
+Le protocole d'analyse A→K impose de nommer à chaque fois le péché visé et activé,
+l'hormone visée et produite, et l'écart entre les deux. Deux scores supplémentaires :
+« capacité à me faire préférer KLESIS au sport » et « capacité à produire de
+l'endorphine ».
 
 Faits de référence : offre EFL à 1 250 €, paiement jusqu'à 6 fois, deux dates
 d'entrée (septembre ou janvier), alternative concurrente = le sport, décision
